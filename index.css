@@ -1,0 +1,26 @@
+.page-header {
+    text-align: center;
+    background: linear-gradient(
+        rgba(0, 0, 0, 0.7), 
+        rgba(0, 0, 0, 0.7)
+      ),url(img/bg.jpg) no-repeat center center scroll;
+    color: #fff;
+    background-size: cover;
+    padding: 100px 0;
+}
+
+section {
+    padding-top: 50px;
+}
+
+p.lead {
+    padding: 30px 0;
+}
+
+.step {
+    margin-top: 90px;
+}
+
+h1 {
+    font-size: 4em;
+}
